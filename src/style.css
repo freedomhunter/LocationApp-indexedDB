@@ -1,0 +1,178 @@
+body {
+  padding: 0;
+  background-color: #f3f3f3 !important;
+}
+
+.h-100 {
+  min-height: 100vh;
+}
+
+.h-80 {
+  min-height: 80vh;
+}
+
+.h100 {
+  height: 100% !important;
+}
+
+.fs-dot9 {
+  font-size: .9em !important;
+}
+
+.fw400 {
+  font-weight: 400 !important;
+}
+
+.fade-color {
+  color: #848383;
+}
+
+.w-70 {
+  width: 70%;
+}
+
+.b-0 {
+  border: 0px !important;
+}
+
+.imgLocation {
+  padding: 40px;
+  border-radius: 0px 30% 0px 30%;
+  background-color: #2d5b82;
+  box-shadow: 0px 0px 1.5em rgba(0, 0, 0, 0.2);
+}
+
+.formModal input {
+  border: 0px !important;
+  border-bottom: 1px solid #ced4da !important;
+  border-radius: 0px !important;
+}
+
+input {
+  color: blue !important;
+  font-size: 0.9em !important;
+}
+
+.form-control:focus {
+  box-shadow: none !important;
+  border-bottom: 2px solid blue !important;
+}
+
+label {
+  margin-bottom: 0 !important;
+  font-size: .9em;
+  color: #4e4e4e;
+  font-weight: 500;
+}
+
+.modal-dialog {
+  max-width: 650px !important;
+  margin-top: 5em !important;
+}
+
+.modal-backdrop.show {
+  opacity: 0 !important;
+}
+
+.modal-content {
+  border: 0 !important;
+  box-shadow: 0px 0px 1.5em rgba(0, 0, 0, 0.2);
+  border-radius: 0;
+}
+
+.react-tagsinput {
+  background-color: #fff;
+  border: 0px !important;
+  overflow: hidden;
+  padding-left: 0px !important;
+  padding-top: 2px !important;
+}
+
+.react-tagsinput-input {
+  width: 100% !important;
+}
+
+.flexTable tr {
+  display: flex;
+}
+
+.flexTable tr th,
+.flexTable tr td {
+  flex: 1;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.dashboard-table tr {
+  display: flex;
+  background-color: white;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+.dashboard-table tr th,
+.dashboard-table tr td {
+  flex: 1;
+  text-align: center;
+  border: 0px !important;
+  align-self: center;
+}
+
+.tableId {
+  padding: 10% 17%;
+  background: #2e93ff;
+  border-radius: 50%;
+  color: white;
+  border: 0px;
+}
+
+.flexdot4 {
+  flex: .4 !important;
+}
+
+.light-blue {
+  color: #3caab5;
+}
+
+.color-red {
+  color: red;
+}
+
+.btn-secondary {
+  color: black !important;
+  background-color: #bbc3ca !important;
+  border-color: #bbc3ca !important;
+}
+
+.modal-title {
+  color: #2676bb !important;
+}
+
+.pagination li {
+  padding: 5px 10px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.pagination {
+  width: fit-content;
+  margin-bottom: 0px !important;
+  margin-right: 10px;
+}
+
+.dropdownBtn {
+  border-bottom: 1px solid #ced4da !important;
+  padding: 5px !important;
+  color: blue !important;
+  font-size: 0.9em !important;
+}
+
+.dropdown-toggle::after{
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+i{
+  cursor: pointer;
+}
