@@ -8,7 +8,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-js-pagination": "^3.0.3",
-    "react-scripts": "0.9.x",
+    "react-scripts": "5.0.x",
     "react-tagsinput": "^3.19.0",
     "reactstrap": "^8.4.1"
   },
